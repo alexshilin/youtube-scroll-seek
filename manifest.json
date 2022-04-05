@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "version": "0.1",
+  "version": "0.2",
   "name": "YouTube Scoll Seek",
   "description": "Seek YouTube videos by hovering mouse over video and scrolling Up / Down (Forward / Backward)",
   "content_scripts": [
