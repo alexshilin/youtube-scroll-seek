@@ -3,9 +3,6 @@
   "version": "0.1",
   "name": "YouTube Scoll Seek",
   "description": "Seek YouTube videos by hovering mouse over video and scrolling Up / Down (Forward / Backward)",
-  "permissions": [
-    "activeTab"
-  ],
   "content_scripts": [
     {
       "matches": ["https://www.youtube.com/*"],
