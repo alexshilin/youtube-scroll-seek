@@ -6,10 +6,10 @@ Hover over the video and roll mouse wheel up and down to seek forward and backwa
 Rolling the mouse wheel outside of the video will scoll the page as usual.
 
 ## Install
-Clone repo or download zip.
-In Chrome, navigate to chrome://extensions/
-Enable the Developer Mode toggle on that page.
-Click "Load Unpacked" and choose the unzipped folder.
+Clone repo or download zip.  
+In Chrome, navigate to chrome://extensions/  
+Enable the Developer Mode toggle on that page.  
+Click "Load Unpacked" and choose the unzipped folder.  
 
 ## Licence
 MIT
